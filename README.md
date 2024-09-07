@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:<p dir="auto" style="display: flex; align-items: center; justify-content: center;">
+- <p dir="auto" style="display: flex; align-items: center; justify-content: center;">
     📫 How to reach me: 
     <a href="https://www.linkedin.com/in/vijay-chauhan-lowcode" rel="nofollow" style="margin-left: 8px;">
         <img width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Profile" style="max-width: 100%;">
