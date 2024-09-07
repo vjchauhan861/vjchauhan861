@@ -29,7 +29,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: ![Linkedin Badge](your-linkedin-url)
+- :mailbox:How to reach me: ![Linkedin Badge](www.linkedin.com/in/
+vijay-chauhan-lowcode)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
