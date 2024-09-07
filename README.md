@@ -35,8 +35,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
         <img width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn Profile" style="max-width: 100%;">
     </a>
 </p>
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
